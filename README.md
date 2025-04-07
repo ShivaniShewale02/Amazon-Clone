@@ -69,4 +69,4 @@ This project is licensed under the MIT License.
 Contact
 For any questions, issues, or suggestions, feel free to open an issue or contact:
 
-Email: wprk.shivanishewale@gmail.com
+Email: work.shivanishewale@gmail.com
