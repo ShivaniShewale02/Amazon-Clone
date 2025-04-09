@@ -10,11 +10,15 @@ A responsive and visually appealing Amazon Clone built using **HTML**, **CSS**, 
 
 ## 🚀 Features
 
-- 🔹 Header with logo, search bar, and cart
-- 🔹 Navigation bar with dropdown menus
-- 🔹 Product categories and image sliders
-- 🔹 Responsive design for various screen sizes
-- 🔹 Interactive UI using JavaScript
+🔹 Header with logo, search bar, and cart
+
+🔹 Navigation bar with dropdown menus
+
+🔹 Product categories and image sliders
+
+🔹 Responsive design for various screen sizes
+
+🔹 Interactive UI using JavaScript
 
 ---
 
