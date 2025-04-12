@@ -36,9 +36,7 @@ A responsive and visually appealing Amazon Clone built using **HTML**, **CSS**, 
 Amazon-Clone/
 ├── index.html
 ├── style.css
-├── script.js
-└── assets/
-    └── images/
+└── images
 ```
 
 ---
