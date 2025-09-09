@@ -2,10 +2,6 @@
 
 A responsive and visually appealing Amazon Clone built using **HTML**, **CSS**, and **JavaScript**. This project replicates the core UI of the Amazon India homepage and demonstrates front-end development skills like layout design, responsiveness, and DOM interaction.
 
-## 📸 Preview
-
-> *(Add a preview image of your project here – screenshot of the homepage UI)*
-
 ---
 
 ## 🚀 Features
